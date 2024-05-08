@@ -1,4 +1,4 @@
-Born2BeRoot (Guide for Evaluation):
+### Born2BeRoot (Guide for Evaluation):
 ## VM (what it is and how it works)
 
 - A virtual Machine is a program that functions as a virtual computer, with its own CPU, memory, network interface, and storage.
@@ -10,8 +10,6 @@ Born2BeRoot (Guide for Evaluation):
 - Easily upgrades from one stable version to another
 - Comes with user-friendly apps and GUI
 - Has a vast amount of packages
-
-[Image (CentOS vs Debian)](https://www.notion.so/Image-CentOS-vs-Debian-44c5e37d22c14a0ca994438f5aa49d66?pvs=21)
 
 ## Aptitude
 
